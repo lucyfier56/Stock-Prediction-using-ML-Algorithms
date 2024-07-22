@@ -1,2 +1,14 @@
-# Stock-Prediction-using-ML-Algorithms
-This project predicts Facebook's stock price using multiple regression models with data from Yahoo Finance. Various models are evaluated for performance, and the SVR model is optimized using GridSearchCV. The methodology can also be applied to predict stock prices of other companies.
+# Financial analysis
+
+
+## Requirements
+  📍[Yfinance](https://pypi.org/project/yfinance/)
+  
+  📍[MplFinance](https://github.com/matplotlib/mplfinance)
+  
+  📍[Sklearn](https://scikit-learn.org/stable/)
+  
+  
+  ## How it works
+  
+  In [Stock Prediction using Machine Learning](https://github.com/roscibely/Financial-analysis/blob/main/Stock_Prediction_using_Machine_Learning.ipynb) is used the support vector regression (SVR) algorithm to predict the Facebook stock price based on historical prices. 
